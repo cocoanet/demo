@@ -1,0 +1,1346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"requestHandlers"
+			],
+			[
+				"pa",
+				"pathName"
+			],
+			[
+				"ie",
+				"item"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"in",
+				"infoEl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"fa",
+				"favor-btn"
+			],
+			[
+				"fee",
+				"feed-body"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fe",
+				"feed-info"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"exp",
+				"expFavorNum"
+			],
+			[
+				"fol",
+				"followList"
+			],
+			[
+				"foll",
+				"followBtn"
+			],
+			[
+				"flo",
+				"followList"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"user",
+				"user-info-banner"
+			],
+			[
+				"mo",
+				"moreBtn"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"follow-data"
+			],
+			[
+				"log",
+				"logInfo"
+			],
+			[
+				"data",
+				"dataIdx"
+			],
+			[
+				"da",
+				"dataIdx"
+			],
+			[
+				"dat",
+				"dataIdx"
+			],
+			[
+				"foo",
+				"food-list"
+			],
+			[
+				"showW",
+				"showWikiTitle"
+			],
+			[
+				"wik",
+				"wikiTitle"
+			],
+			[
+				"cu",
+				"currViewIdx"
+			],
+			[
+				"get",
+				"getView"
+			],
+			[
+				"pag",
+				"pagerHeight"
+			],
+			[
+				"ren",
+				"renderOpt"
+			],
+			[
+				"show",
+				"showid"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"lo",
+				"localData"
+			],
+			[
+				"to",
+				"totalPn"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"rend",
+				"renderOpt"
+			],
+			[
+				"url",
+				"urlOpt"
+			],
+			[
+				"ve",
+				"viewIdx"
+			],
+			[
+				"vie",
+				"viewIdx"
+			],
+			[
+				"js",
+				"getJSON"
+			],
+			[
+				"righ",
+				"rightBtn"
+			],
+			[
+				"eve",
+				"eventInit"
+			],
+			[
+				"ev",
+				"eventInit"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"sho",
+				"showOpt"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"err",
+				"errorMsg"
+			],
+			[
+				"resu",
+				"resultValue"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sou",
+				"sourceCode"
+			],
+			[
+				"me",
+				"menulist"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"de",
+				"defaultParam"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"wiki",
+				"wikiIdx"
+			],
+			[
+				"view",
+				"viewPool"
+			],
+			[
+				"hid",
+				"hideView"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"ban",
+				"background-color"
+			],
+			[
+				"ste",
+				"stepObj"
+			],
+			[
+				"wh",
+				"wheelFlag"
+			],
+			[
+				"has",
+				"hasThumbs"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"cur",
+				"cursorMaskAutoHeight"
+			],
+			[
+				"step",
+				"stepTotalNum"
+			],
+			[
+				"key",
+				"keyboard"
+			],
+			[
+				"picIdx",
+				"picIdxInStep"
+			],
+			[
+				"pi",
+				"picIdxInStep"
+			],
+			[
+				"curr",
+				"currStepIdx"
+			],
+			[
+				"pic",
+				"picIndexInStep"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rig",
+				"rightMask"
+			],
+			[
+				"lef",
+				"leftMask"
+			],
+			[
+				"Tex",
+				"stepTextHolder"
+			],
+			[
+				"ex",
+				"expand"
+			],
+			[
+				"too",
+				"expTools"
+			],
+			[
+				"sc",
+				"scrollInstance"
+			],
+			[
+				"scro",
+				"scrollInstance"
+			],
+			[
+				"scrol",
+				"scrollBox"
+			],
+			[
+				"coll",
+				"collapseText"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"set",
+				"setStyle"
+			],
+			[
+				"ima",
+				"imagesArr"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"o",
+				"option"
+			],
+			[
+				"stepTo",
+				"stepTotalNum"
+			],
+			[
+				"thum",
+				"thumbEl"
+			],
+			[
+				"currS",
+				"currStepThumbLi"
+			],
+			[
+				"th",
+				"thumbEl"
+			],
+			[
+				"thumb-",
+				"thumb-step-li-over"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"so",
+				"scrollInstance"
+			],
+			[
+				"scroll",
+				"scrollOption"
+			],
+			[
+				"scr",
+				"scrollOption"
+			],
+			[
+				"left",
+				"leftBtn"
+			],
+			[
+				"big",
+				"bigPicHolder"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"l-asi",
+				"l-aside-wrap"
+			],
+			[
+				"cal",
+				"callByBrowser，默认传入参数"
+			],
+			[
+				"compress",
+				"compressLinkedInCss"
+			],
+			[
+				"lin",
+				"linded_in_css_pat"
+			],
+			[
+				"wi",
+				"widget-qa_type_c"
+			],
+			[
+				"_",
+				"_name"
+			],
+			[
+				"pr",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "demo/server.js",
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo/requestHandlers.js",
+			"settings":
+			{
+				"buffer_size": 210,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo/router.js",
+			"settings":
+			{
+				"buffer_size": 272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/web/webroot/pagebuilder/data/baike/resources/widget/top_bar/top_bar.tpl",
+			"settings":
+			{
+				"buffer_size": 1766,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/web/webroot/pagebuilder/data/baike/resources/widget/widget_list_cfg.php",
+			"settings":
+			{
+				"buffer_size": 1098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/web/webroot/pagebuilder/data/baike/resources/widget/top_bar/top_bar.php",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo/index.js",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":we",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":h",
+				"Set Syntax: HTML"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":r",
+				"V8: Run JSHint"
+			],
+			[
+				":close",
+				"File: Close All"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"pc",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"view:",
+				"View: Toggle Minimap"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"view:To	ggle Menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/web/node/demo/router.js",
+		"/E/web/webroot/node/demo/index.js",
+		"/E/web/webroot/node/demo/router.js",
+		"/E/web/webroot/node/demo/server.js",
+		"/C/Program Files/nodejs/test.js",
+		"/D/Users/wkk.internal/Desktop/test.js",
+		"/E/web/fis/exp/user/test/page/user/pindex.json",
+		"/E/web/fis/exp/user/test/page/user/pexplist.json",
+		"/E/web/fis/exp/user/widget/user/user-info-banner/user-info-banner.tpl",
+		"/E/web/fis/exp/user/widget/user/user-info-banner/user-info-banner.css",
+		"/E/web/fis/exp/user/widget/user/user-info-banner/user-info-banner.js",
+		"/E/web/fis/exp/user/widget/user/feed-list/feed-list.tpl",
+		"/E/web/fis/exp/user/widget/user/feed-list/feed-item/feed-item.tpl",
+		"/E/web/fis/exp/user/widget/user/feed-list/feed-list.css",
+		"/E/web/fis/exp/user/page/user/pindex.tpl",
+		"/E/web/fis/exp/user/page/user/pexplist.tpl",
+		"/E/web/fis/exp/user/widget/user/aside/public-aside/public-aside.tpl",
+		"/E/web/fis/exp/user/widget/user/aside/public-aside/public-aside.css",
+		"/E/web/fis/exp/common/plugin/modifier.exp_pictureurl.php",
+		"/E/web/fis/exp/user/config/fis-config.xml",
+		"/E/web/fis/exp/common/config/fis-config.xml",
+		"/D/Users/wkk.internal/Desktop/taobao_code.html",
+		"/E/web/fis/exp/article/test/page/article/index.json",
+		"/F/temp/Work/exp/个人中心改版/feed_data.json",
+		"/E/web/fis/exp/common/widget/common/article/thumbnail/thumbnail.tpl",
+		"/E/web/fis/exp/common/static/common/ui/favor/favor.js",
+		"/E/web/fis/exp/common/static/common/ui/follow/follow.js",
+		"/E/web/fis/exp/user/static/user/ui/followUser/followUser.js",
+		"/E/web/fis/exp/user/static/user/ui/pageResize/pageResize.js",
+		"/E/web/fis/exp/user/static/user/ui/css-uc-global/css-uc-global.css",
+		"/E/web/fis/exp/common/config/common/web.conf",
+		"/E/web/fis/exp/user/page/user/layout/new-layout.tpl",
+		"/E/web/fis/exp/user/widget/user/feed-list/feed-list.js",
+		"/E/web/fis/exp/user/page/user/layout/layout.tpl",
+		"/E/web/fis/exp/user/static/user/ui/resize/resize.js",
+		"/D/Users/wkk.internal/Desktop/feed_data.json",
+		"/E/web/fis/exp/article/page/article/index.tpl",
+		"/F/temp/Work/exp/jsonSample.json",
+		"/E/web/fis/exp/user/static/user/pindex/pindex.css",
+		"/E/web/fis/exp/user/widget/user/tabs/uc-tab/uc-tab.tpl",
+		"/E/web/fis/exp/user/static/user/pexplist/pexplist.css",
+		"/E/web/fis/exp/user/widget/user/aside/public-aside/public-aside.js",
+		"/D/Users/wkk.internal/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/web/fis/exp/user/widget/user/feed/feed-exp/feed-exp.tpl",
+		"/E/web/fis/exp/user/widget/user/tabs/uc-tab/uc-tab.css",
+		"/E/web/fis/exp/user/widget/user/userinfo/other/other.tpl",
+		"/E/web/fis/exp/user/widget/user/vote/vote.tpl",
+		"/E/web/fis/exp/home/page/home/layout/layout.tpl",
+		"/E/web/fis/exp/user/widget/user/aside/resume/resume.tpl",
+		"/E/web/fis/exp/home/static/home/index/index.css",
+		"/E/web/fis/exp/home/page/home/index.tpl",
+		"/E/web/fis/exp/common/page/common/layout/base.tpl",
+		"/E/web/fis/exp/common/page/common/layout/new-common.tpl",
+		"/E/web/fis/exp/common/page/common/layout/common.tpl",
+		"/E/web/fis/exp/meishi/test/meishi/aladdin-webapp/aladdin.php",
+		"/E/web/fis/exp/meishi/test/page/meishi/aladdin-webapp/index.json",
+		"/E/web/fis/exp/meishi/static/meishi/aladdin/main.css",
+		"/E/web/fis/exp/meishi/page/meishi/aladdin-webapp/index.tpl",
+		"/E/web/fis/exp/meishi/static/meishi/aladdin/main.js",
+		"/E/web/fis/exp/bak/meishi_bak_2013_01_22/static/meishi/aladdin/main.js",
+		"/E/web/webroot/project/kekeapp_duapp/1/index.php",
+		"/E/web/fis/exp/meishi/config/fis-config.xml",
+		"/E/web/fis/exp/common/static/common/html/agreement-exp.html",
+		"/E/web/fis/exp/bak/common_2012_12_25/widget/common/pager/pager.tpl",
+		"/E/web/fis/exp/bak/common/output/template/widget/common/pager/pager.tpl",
+		"/E/web/webroot/project/kekeapp_duapp/1/index.html",
+		"/E/web/fis/exp/meishi/widget/meishi/home/top5/top5.js",
+		"/E/web/fis/exp/album/test/page/album/index.json",
+		"/E/web/fis/exp/album/page/album/index.tpl",
+		"/E/web/fis/exp/album/widget/album/step-player/step-player.tpl",
+		"/E/web/fis/exp/album/widget/album/step-player/step-player.css",
+		"/E/web/fis/exp/album/static/album/ui/scrollbar/scrollbar.css",
+		"/E/web/webroot2/pagebuilder/configs/user_cfg.php",
+		"/E/web/ADoc/iknow/exp/design/meishi_aladdin_webapp.text",
+		"/D/Users/wkk.internal/Desktop/hao123购票new/new/index.html",
+		"/E/web/fis/exp/meishi/page/meishi/index.tpl",
+		"/E/web/fis/fis/libs/output.js",
+		"/E/web/fis/fis/core-1.3.1.5/util/Command.class.php",
+		"/E/web/fis/fis/basic-1.3.4.5/config.php",
+		"/E/web/fis/fis/basic-1.3.4.5/Basic.class.php",
+		"/E/web/fis/fis/pc-1.3.5/config.php",
+		"/E/web/fis/fis/pc2-1.3.4/config.php",
+		"/E/web/fis/exp/meishi/static/meishi/aladdin-webapp/main.css",
+		"/E/web/fis/exp/meishi/static/meishi/aladdin-webapp/main.js",
+		"/E/web/fis/exp/meishi/output/static/meishi/aladdin-webapp/main_777949e7.css",
+		"/E/web/fis/exp/meishi/output/static/meishi/aladdin-webapp/main_9232c8d0.js",
+		"/E/web/fis/exp/meishi/output/webroot/static/meishi/aladdin-webapp/zepto.min_9d8a6e91.js",
+		"/E/web/fis/exp/meishi/output/template/page/meishi/aladdin-webapp/index.tpl",
+		"/E/web/fis/exp/album/config/fis-config.xml",
+		"/E/web/webroot/test_header.php",
+		"/E/web/webroot/demo.php",
+		"/E/web/fis/exp/meishi/test/meishi/aladdin-webapp/caipulist.php",
+		"/E/web/fis/exp/meishi/test/page/meishi/aladdin-webapp/caipulist.php",
+		"/E/web/fis/exp/bak/common/config/fis-config.xml",
+		"/E/web/fis/exp/meishi/test/submit/common-isLogin.php",
+		"/F/temp/log02_DISK.bat",
+		"/F/temp/FE_DISK.bat",
+		"/F/temp/fe_iknow_DISK.bat",
+		"/E/web/fis/exp/article/config/fis-config.xml",
+		"/E/web/fis/exp/meishi/test/page/meishi/aladdin-webapp/home/index.json",
+		"/E/web/fis/exp/meishi/page/meishi/aladdin-webapp/home/index.tpl",
+		"/E/web/fis/exp/meishi/widget/meishi/aladdin-webapp/footer-menu/footer-menu.css",
+		"/E/web/fis/exp/meishi/widget/meishi/aladdin-webapp/footer-menu/footer-menu.js",
+		"/E/web/fis/exp/meishi/widget/meishi/aladdin-webapp/top/top.js",
+		"/E/web/fis/exp/meishi/widget/meishi/aladdin-webapp/footer-menu/footer-menu.tpl",
+		"/D/Users/wkk.internal/Desktop/zepto.min.js",
+		"/D/Program Files/Sublime Text 2/sublime_text - 1.exe",
+		"/E/web/fis/exp/common/widget/common/footer/footer.tpl",
+		"/E/web/fis/exp/article/test/page/article/aladdin.json",
+		"/E/web/fis/exp/common/build.sh",
+		"/E/web/fis/exp/meishi/build.sh",
+		"/E/web/fis/exp/album/build.sh",
+		"/E/web/fis/exp/album/widget/album/step-player/step-player.js",
+		"/C/Documents and Settings/wangkeke/桌面/index.html",
+		"/C/Documents and Settings/wangkeke/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/step-player.css                E%3A%5Cweb%5Cfis%5Cexp%5Calbum%5Cwidget%5Calbum%5Cstep-player%5Cstep-player.css",
+		"/E/web/fis/exp/article/widget/article/prompt/prompt.tpl",
+		"/E/web/fis/exp/article/widget/article/prompt/prompt.css",
+		"/C/Documents and Settings/wangkeke/Application Data/Microsoft/Internet Explorer/Quick Launch/显示桌面.scf",
+		"/E/web/fis/exp/common/widget/common/comment/comment.tpl",
+		"/E/web/fis/exp/common/widget/common/comment/comment-list/comment-list.tpl",
+		"/E/web/fis/exp/user/widget/user/comment/comment.tpl",
+		"/E/web/fis/exp/user/widget/user/comment/comment.css",
+		"/E/web/fis/exp/user/widget/user/tabs/single-tab/single-tab.tpl",
+		"/E/web/fis/exp/user/widget/user/tabs/multiple-tab-task/multiple-tab-task.tpl",
+		"/E/web/fis/exp/user/widget/user/tabs/multiple-tab-explist/multiple-tab-explist.tpl",
+		"/E/web/fis/exp/user/widget/user/tabs/multiple-tab-author/multiple-tab-author.tpl",
+		"/E/web/fis/exp/user/static/user/ui/css-base/tabs.css",
+		"/E/web/fis/exp/common/widget/common/exp-article-tab/exp-article-tab.tpl"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\user",
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\user",
+			"E:\\web\\fis\\exp\\article",
+			"E:\\web\\fis\\exp\\common\\",
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\user\\",
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\common\\widget\\common\\comment",
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\article",
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\article",
+			"E:\\web\\webroot\\pagebuilder",
+			"E:\\web\\fis\\exp\\user",
+			"E:\\web\\webroot\\pagebuilder\\static\\js",
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\user",
+			"E:\\web\\fis\\exp\\common\\plugin",
+			"E:\\web\\webroot\\pagebuilder",
+			"E:\\web\\webroot\\pagebuilder\\static\\js,E:\\web\\webroot\\pagebuilder\\tpl",
+			"E:\\web\\fis\\exp\\",
+			"E:\\web\\fis\\exp\\user\\",
+			"E:\\web\\fis\\exp\\user\\static\\user",
+			"E:\\web\\fis\\exp\\user\\static\\user\\ui",
+			"E:\\web\\fis\\exp\\common\\static\\common\\ui",
+			"E:\\web\\webroot\\pagebuilder\\static",
+			"E:\\web\\fis\\exp\\user",
+			"E:\\web\\webroot\\pagebuilder\\",
+			"E:\\web\\webroot\\pagebuilder\\data\\baike\\resources\\widget",
+			"E:\\web\\webroot\\pagebuilder\\static",
+			"E:\\web\\webroot\\pagebuilder\\data\\lvyou\\resources\\widget",
+			"E:\\web\\webroot\\pagebuilder\\static\\css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"infoEl",
+			"fx",
+			"collapse",
+			"fx/",
+			"fx/ex",
+			"FX",
+			"decoration",
+			"uname",
+			"20px",
+			"arrow",
+			"favor-text",
+			"border",
+			"info-sw",
+			"has-border",
+			"time",
+			"feedbackSuc",
+			"info-switch",
+			".bottom",
+			"bottom",
+			"right",
+			"relative",
+			"EXPLIST",
+			"isFavor",
+			"more",
+			"/",
+			"ucFavorexp",
+			"favor",
+			".uname",
+			"escape:url",
+			"setMainAsideHeight",
+			"999",
+			"split",
+			"id1:3",
+			"trunLen",
+			"BD",
+			"log",
+			"nslog",
+			"1013",
+			"caipu_link",
+			"BD_WA_LOG_",
+			"BD_WA_LOG_LINK",
+			"getAppHeight",
+			"renderType",
+			"log",
+			"renderInstance",
+			"renderOpt",
+			"pindex",
+			"trim",
+			"currViewIdx",
+			"pageTitle",
+			"currViewIdx",
+			"wiki",
+			"log",
+			"pageTitle",
+			"pagerWrap",
+			"getAppHeight",
+			"var",
+			"log",
+			"click",
+			"trigger",
+			"renderType",
+			"create",
+			"wikiWordsNum",
+			"100",
+			"200",
+			"showView",
+			"localData",
+			"log",
+			"showListPage",
+			"showView",
+			"wikiidx",
+			"data-idx",
+			"renderType",
+			"localData",
+			"document.body",
+			"trigger",
+			"document",
+			"trigger",
+			"log",
+			"showListPage",
+			"showWiki",
+			"masker",
+			"Masker",
+			"pager:show",
+			"showList",
+			"showListPage",
+			"showList",
+			"pager:show",
+			"prev",
+			"app",
+			".g(",
+			"this.g(",
+			"this.g",
+			"me.g",
+			"elPool",
+			"content",
+			"active",
+			"EDEDED",
+			"exp_pager",
+			"exp_truncate",
+			"aladdin",
+			"json_encode",
+			"json_decode",
+			"inner",
+			"track",
+			"scroll",
+			"totalPn",
+			"wrap.le",
+			"Element",
+			"total",
+			"showFoodElement",
+			"getdata",
+			"getData",
+			"pager:show",
+			"log",
+			"hide",
+			"currentPn",
+			"renderOpt",
+			"log",
+			"isHided",
+			"nav-btn",
+			"getView",
+			"showView",
+			"app",
+			"log",
+			"'pager:show",
+			"getJSON",
+			"(){"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.document.body",
+			"app.g",
+			"data",
+			"\\u",
+			"\\",
+			"%}",
+			"{%",
+			"exp-title-box",
+			"%}",
+			"{%",
+			"T",
+			"%}",
+			"{%",
+			"%}",
+			"{%",
+			"%}",
+			"{%",
+			"%}",
+			"{%",
+			"T",
+			"dialog.dispose",
+			"this._data",
+			"T",
+			"_data.dom",
+			"_data.city",
+			"_data.province",
+			"login",
+			"tool",
+			"topic",
+			"property",
+			"structure",
+			"widget",
+			"configuration",
+			"class_file",
+			"url_array",
+			"configs",
+			"PB.admin",
+			"",
+			"layout-$1 pic",
+			"layout-\\$1 pic",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "demo/server.js",
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "demo/requestHandlers.js",
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "demo/router.js",
+					"settings":
+					{
+						"buffer_size": 272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/web/webroot/pagebuilder/data/baike/resources/widget/top_bar/top_bar.tpl",
+					"settings":
+					{
+						"buffer_size": 1766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1737,
+								1737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1199.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/web/webroot/pagebuilder/data/baike/resources/widget/widget_list_cfg.php",
+					"settings":
+					{
+						"buffer_size": 1098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								671,
+								671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/web/webroot/pagebuilder/data/baike/resources/widget/top_bar/top_bar.php",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "demo/index.js",
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.jsconsole_view":
+	{
+		"height": 0.0
+	},
+	"output.jshint_view":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"iknow_fe/authentic/bu",
+				"iknow_fe/authentic/build.sh"
+			],
+			[
+				"iknow_base.css",
+				"iknow_fe/iknow-intern/css/iknow_base.css"
+			],
+			[
+				"iknow_fis/home",
+				"iknow_fis/home/build.sh"
+			],
+			[
+				"",
+				"userlogin.html"
+			],
+			[
+				"htm",
+				"/E/web/fis/iknow_fis/common-fis/static/common/html/html5.js"
+			],
+			[
+				"/e/web",
+				"/E/web/fis/iknow_fis/search/page/search/index.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/web/webroot/project/kekeapp_duapp/1/project.sublime-project"
+			],
+			[
+				"pagebuilder",
+				"/E/web/webroot2/pagebuilder/pagebuilder.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true
+}
